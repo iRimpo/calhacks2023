@@ -1,7 +1,7 @@
 
-# Cal Hacks 2023 Project
+# UC Berkeley AI Hackathon 2023
 
-This is our project for Cal Hacks 2023.
+This is our project for UC Berkeley AI Hackathon 2023.
 
 
 ## Authors
